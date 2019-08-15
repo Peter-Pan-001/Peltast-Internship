@@ -2,10 +2,15 @@
 
 Given the confidentiality clause, we cannot provide the complete datasets of our customers.
 
-## Project 1: Importation and Exportation Dataset Visualization with R shiny
+## Project 1: Importation and Exportation Dataset Dashboard with R shiny
 
 ![](Importation-Shiny/Images/Heatmap.png)
 
 ![](Importation-Shiny/Images/Bar.png)
 
 ![](Importation-Shiny/Images/Scatterplot.png)
+
+
+## Project 2: Insurance Sales Dataset Dashboard with Tableau
+
+![](Insurance-Sales/Images/Dashboard.png)
