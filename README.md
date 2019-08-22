@@ -17,4 +17,10 @@ Given the confidentiality clause, we cannot provide the complete datasets of our
 
 ## Visualization 3: Macro data of Philippine by Provinces and Cities with Distributors of Our Customer
 
+Tableau Version:
+
 ![](Macrodata/Heatmap.png)
+
+Power BI Version:
+
+![](Macrodata/Power_BI.png)
